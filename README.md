@@ -1,2 +1,2 @@
 # 11_Galleria
- Galeria de Imagens 
+Galeria de Imagens utilizando SASS
