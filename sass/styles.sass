@@ -44,8 +44,10 @@ body
 
                 a
                     padding: 5px 5px
+
                     &:hover   
                         color: variables.$secondary-color
+                        font-size: 1em
     
     &-social-media
         ul
@@ -68,15 +70,17 @@ body
     padding: 0
 
     &-card // .gallery-card
+        @include mixins.flex-center
         width: 31%
         height: 400px
         margin-bottom: 4%
-        @include mixins.flex-center
         flex-direction: column
         color: variables.$primary-color
         flex-wrap: wrap
 
         &-title
+            @include mixins.flex-center
+            width: 50%
             font-size: 2em
             font-weight: 300
             margin-bottom: 1em
@@ -119,6 +123,8 @@ body
 
     #card-9
         @include mixins.bg-img('refeicoes.jpg')
+
+
 
 footer
     text-align: center
