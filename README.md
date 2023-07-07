@@ -26,4 +26,4 @@ Projeto <strong>11_Galleria</strong> disponibilizado por [Matheus Battisti - Hor
 LinkedIn</a><br><br>
 
 # **Disponível**
-Clique <a href="https://pedrohenriquealvesfernandes.github.io/11_Galleria/" style="color: cyan"><strong>AQUI</strong></a> para acessar a projeto em funcionamento.
+Clique <a href="https://pedrohenriquealvesfernandes.github.io/11_Galleria/" style="color: cyan"><strong>AQUI</strong></a> para acessar a projeto em funcionamento (resolução a ser exibida 1366px (desktop) ).
